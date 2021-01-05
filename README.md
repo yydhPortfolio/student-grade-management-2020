@@ -1,2 +1,11 @@
-# 2020-jsp-student-grade-management
+# student-grade-management-2020
 JSP로 구현한 학생 성적관리 프로그램
+
+<h2>구현된 항목</h2>
+<ul>
+  <li>학생리스트출력</li>
+  <li>학생리스트 점수별로 오름차순, 내림차순 정렬해서 보여주ㄱ;</li>
+  <li>학생 이름, 아이디, 점수로 학생검색</li>
+  <li>학생아이디로 학생 삭제</li>
+  <li>학생아이디로 학생을 찾아서 정보수정</li>
+</ul>
