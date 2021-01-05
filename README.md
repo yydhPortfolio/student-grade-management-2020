@@ -34,3 +34,10 @@ JSP로 구현한 학생 성적관리 프로그램
 <img src="https://user-images.githubusercontent.com/51257552/103621213-33e13880-4f78-11eb-9454-c2d661573c87.png" width="49%"></img>
 <img src="https://user-images.githubusercontent.com/51257552/103621217-35126580-4f78-11eb-8841-d4a96e618459.png" width="49%"></img>
 <div>
+
+<h2>학생정보수정페이지</h2>
+학생정보수정을 선택했을때 나오는 페이지, 학생정보수정예시
+<div>
+<img src="https://user-images.githubusercontent.com/51257552/103622093-8bcc6f00-4f79-11eb-8791-58541e6e77c7.png" width="49%"></img>
+<img src="https://user-images.githubusercontent.com/51257552/103622096-8c650580-4f79-11eb-8fd7-6b8f7a45c80a.png" width="49%"></img>
+<div>
