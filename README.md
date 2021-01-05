@@ -37,6 +37,7 @@ JSP로 구현한 학생 성적관리 프로그램
 
 <h2>학생정보수정페이지</h2>
 학생정보수정을 선택했을때 나오는 페이지, 학생정보수정예시
+선택한 학생의 정보를 수정할때, 기본값으로 가장 최근까지 설정되어있었던 학생정보를 지정한다.
 <div>
   <img src="https://user-images.githubusercontent.com/51257552/103622096-8c650580-4f79-11eb-8fd7-6b8f7a45c80a.png" width="49%"></img>
   <img src="https://user-images.githubusercontent.com/51257552/103622093-8bcc6f00-4f79-11eb-8791-58541e6e77c7.png" width="49%"></img>
