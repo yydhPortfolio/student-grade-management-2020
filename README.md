@@ -23,10 +23,14 @@ JSP로 구현한 학생 성적관리 프로그램
 
 <h2>학생정렬페이지</h2>
 학생정렬 선택시 나오는 페이지, 학생 정렬방법 예시
-<img src="https://user-images.githubusercontent.com/51257552/103621224-36439280-4f78-11eb-99e6-bcb31b6f87ce.png" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/51257552/103621225-36dc2900-4f78-11eb-8458-c69eaa2f1a17.png" width="45%"></img>
+<div>
+<img src="https://user-images.githubusercontent.com/51257552/103621224-36439280-4f78-11eb-99e6-bcb31b6f87ce.png" width="49%"></img>
+<img src="https://user-images.githubusercontent.com/51257552/103621225-36dc2900-4f78-11eb-8458-c69eaa2f1a17.png" width="49%"></img>
+</div>
 
 <h2>학생검색페이지</h2>
 학생검색을 선택했을때 나오는 페이지, 학생 검색방법을 선택했을때 나오는 페이지
-<img src="https://user-images.githubusercontent.com/51257552/103621213-33e13880-4f78-11eb-9454-c2d661573c87.png" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/51257552/103621217-35126580-4f78-11eb-8841-d4a96e618459.png" width="45%"></img>
+<div>
+<img src="https://user-images.githubusercontent.com/51257552/103621213-33e13880-4f78-11eb-9454-c2d661573c87.png" width="49%"></img>
+<img src="https://user-images.githubusercontent.com/51257552/103621217-35126580-4f78-11eb-8841-d4a96e618459.png" width="49%"></img>
+<div>
