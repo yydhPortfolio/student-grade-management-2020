@@ -18,7 +18,7 @@ JSP로 구현한 학생 성적관리 프로그램
 <img src="https://user-images.githubusercontent.com/51257552/103621218-35126580-4f78-11eb-87c3-ef40f57f114b.png"></img>
 
 <h2>학생탈퇴페이지</h2>
-학생탈퇴 선택시 나오는 페이지
+학생탈퇴 선택시 나오는 페이지, 아이디를 입력하여 입력된 아이디가 있을시 해당 회원 삭제
 <img src="https://user-images.githubusercontent.com/51257552/103621222-36439280-4f78-11eb-8593-b7d36eb76048.png"></img>
 
 <h2>학생정렬페이지</h2>
